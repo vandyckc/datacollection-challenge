@@ -1,1 +1,2 @@
 # datacollection-challenge
+For this challenge, we are scraping the web for data on Mars and its weather! Inititally, we use Splinter and Beautiful Soup to scrape data from a website before using Pandas to further scrape data, arrange the data into a Data Frame, and analyze the data to answer some Martian questions. We include some visualizations and convert our DataFrame to a CSV file for easy sharing.
